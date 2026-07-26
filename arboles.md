@@ -1,11 +1,11 @@
 # Árboles
 
-> [!important] Fecha
+> [!IMPORTANT] Fecha
 > *24 de julio de 2026*
 
 ---
 
-> [!example] :
+> [!EXAMPLE] 
 > En las sombras refrescantes debajo de largas extensiones de árboles en las que debajo de dichas copas descansan hombres, perros y burros de un abrumador calor de un sol de mediodía que se alza en lo más alto del cielo. En dichas sombras parecería que no solo descansan aquellos hombres; el sol es el mismo que en ese entonces, los hombres, en cambio, pretenden ser los mismos aquellos de ese entonces.
 >
 > Una vez levantándose y saliendo de la sombra son envueltos por aquella capa sepia en todo el cuerpo, dicha capa que es la realidad de la que huyen a la sombra.
